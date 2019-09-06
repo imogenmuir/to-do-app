@@ -47,7 +47,7 @@ export default {
   props: ['todo'],
   data () {
     return {
-      isEditing: true
+      isEditing: false
     }
   },
   methods: {
